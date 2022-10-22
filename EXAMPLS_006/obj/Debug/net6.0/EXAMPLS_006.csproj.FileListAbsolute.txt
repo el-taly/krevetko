@@ -1,0 +1,15 @@
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/bin/Debug/net6.0/EXAMPLS_006
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/bin/Debug/net6.0/EXAMPLS_006.deps.json
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/bin/Debug/net6.0/EXAMPLS_006.runtimeconfig.json
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/bin/Debug/net6.0/EXAMPLS_006.dll
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/bin/Debug/net6.0/EXAMPLS_006.pdb
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.csproj.AssemblyReference.cache
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.AssemblyInfoInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.AssemblyInfo.cs
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.csproj.CoreCompileInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.dll
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/refint/EXAMPLS_006.dll
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.pdb
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/EXAMPLS_006.genruntimeconfig.cache
+/Users/anna/Downloads/Обучение/Exampls/EXAMPLS_006/obj/Debug/net6.0/ref/EXAMPLS_006.dll
