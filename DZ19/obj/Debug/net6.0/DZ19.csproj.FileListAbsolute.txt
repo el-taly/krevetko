@@ -1,0 +1,15 @@
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.csproj.AssemblyReference.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.AssemblyInfoInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.AssemblyInfo.cs
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.csproj.CoreCompileInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ19/bin/Debug/net6.0/DZ19
+/Users/anna/Downloads/Обучение/Exampls/DZ19/bin/Debug/net6.0/DZ19.deps.json
+/Users/anna/Downloads/Обучение/Exampls/DZ19/bin/Debug/net6.0/DZ19.runtimeconfig.json
+/Users/anna/Downloads/Обучение/Exampls/DZ19/bin/Debug/net6.0/DZ19.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ19/bin/Debug/net6.0/DZ19.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/refint/DZ19.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/DZ19.genruntimeconfig.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ19/obj/Debug/net6.0/ref/DZ19.dll
