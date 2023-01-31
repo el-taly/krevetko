@@ -1,0 +1,15 @@
+/Users/anna/Downloads/Обучение/Exampls/DZ62/bin/Debug/net6.0/DZ62
+/Users/anna/Downloads/Обучение/Exampls/DZ62/bin/Debug/net6.0/DZ62.deps.json
+/Users/anna/Downloads/Обучение/Exampls/DZ62/bin/Debug/net6.0/DZ62.runtimeconfig.json
+/Users/anna/Downloads/Обучение/Exampls/DZ62/bin/Debug/net6.0/DZ62.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ62/bin/Debug/net6.0/DZ62.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.csproj.AssemblyReference.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.AssemblyInfoInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.AssemblyInfo.cs
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.csproj.CoreCompileInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/refint/DZ62.dll
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/DZ62.genruntimeconfig.cache
+/Users/anna/Downloads/Обучение/Exampls/DZ62/obj/Debug/net6.0/ref/DZ62.dll
