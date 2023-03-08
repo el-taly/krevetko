@@ -1,0 +1,15 @@
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.csproj.AssemblyReference.cache
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.AssemblyInfoInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.AssemblyInfo.cs
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.csproj.CoreCompileInputs.cache
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/bin/Debug/net6.0/DZITOG
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/bin/Debug/net6.0/DZITOG.deps.json
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/bin/Debug/net6.0/DZITOG.runtimeconfig.json
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/bin/Debug/net6.0/DZITOG.dll
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/bin/Debug/net6.0/DZITOG.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.dll
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/refint/DZITOG.dll
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.pdb
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/DZITOG.genruntimeconfig.cache
+/Users/anna/Downloads/Обучение/Exampls/DZITOG/obj/Debug/net6.0/ref/DZITOG.dll
